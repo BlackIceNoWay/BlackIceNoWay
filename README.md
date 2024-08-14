@@ -8,3 +8,9 @@ Welcome to my GitHub profile! I'm a student at the University of Economics Ho Ch
 ## 📫 How to Reach Me
 - **Email**: lequyetnum10@gmail.com
 - **Portfolio**: 
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
